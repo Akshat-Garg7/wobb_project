@@ -5,7 +5,8 @@
 1. Install the required packages.
 
    ```sh
-   cd react-tailwind-css-starter-pack
+   
+   cd wobb-project
    npm install
    ```
 
@@ -55,7 +56,7 @@ The application should now be running at `http://localhost:3000`.
 ## Project Structure
 
 ```
-wobb-frontend/
+wobb-project/
 │── public/
 │
 │── src/
@@ -83,7 +84,7 @@ wobb-frontend/
 │── package.json
 │── README.md
 │── tailwind.config.js
-<<<<<<< HEAD
+
 
 =======
 
@@ -160,4 +161,4 @@ This application is optimized for modern browsers including:
       <img src ="https://github.com/Akshat-Garg7/wobb_project/blob/main/screenshots/pic5.png"/>
       <img src ="https://github.com/Akshat-Garg7/wobb_project/blob/main/screenshots/pic6.png"/>
    </p>
->>>>>>> ee71b4f4abd48b9190a6392e74a333fd0ded199d
+

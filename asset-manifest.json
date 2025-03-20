@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/wobb_project/static/css/main.ef6dec0c.css",
+    "main.js": "/wobb_project/static/js/main.761e91b9.js",
+    "static/media/adidas.png": "/wobb_project/static/media/adidas.d70d1f942419f0ea0d70.png",
+    "static/media/airbnb.png": "/wobb_project/static/media/airbnb.cbff8f5f56d8f9706da8.png",
+    "static/media/sephora.png": "/wobb_project/static/media/sephora.ff013309f2e5edd2d284.png",
+    "static/media/Spotify.png": "/wobb_project/static/media/Spotify.2d81c628ae654c0eb58a.png",
+    "static/media/nike.png": "/wobb_project/static/media/nike.a6160e403977a5dea714.png",
+    "static/media/audible.png": "/wobb_project/static/media/audible.b84d925d7f3ffa3372b4.png",
+    "static/media/nikelogourl.jpg": "/wobb_project/static/media/nikelogourl.b51c7f303bfce60fbe62.jpg",
+    "index.html": "/wobb_project/index.html",
+    "main.ef6dec0c.css.map": "/wobb_project/static/css/main.ef6dec0c.css.map",
+    "main.761e91b9.js.map": "/wobb_project/static/js/main.761e91b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef6dec0c.css",
+    "static/js/main.761e91b9.js"
+  ]
+}

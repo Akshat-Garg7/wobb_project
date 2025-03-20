@@ -18,11 +18,6 @@
 
 The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup.
 
-## Contributing
-
-Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.# Wobb Frontend Project
-
-This README provides instructions for setting up and running the Wobb frontend project locally.
 
 ## Prerequisites
 
@@ -37,8 +32,8 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/wobb-frontend.git
-cd wobb-frontend
+git clone https://github.com/Akshat-Garg7/wobb-project.git
+cd wobb-project
 ```
 
 ### 2. Install Dependencies
@@ -91,7 +86,7 @@ wobb-frontend/
 <<<<<<< HEAD
 
 =======
->>>>>>> ee71b4f4abd48b9190a6392e74a333fd0ded199d
+
 ```
 
 ## Available Scripts
@@ -113,7 +108,7 @@ npm run build
 
 This creates an optimized production build in the `build` folder.
 
-<<<<<<< HEAD
+
 ## Deployment
 
 After building the application, you can deploy the contents of the `build` folder to any static hosting service like:
@@ -124,13 +119,6 @@ After building the application, you can deploy the contents of the `build` folde
 - AWS S3
 - Firebase Hosting
 
-## API Integration
-
-The frontend communicates with backend services through API calls. Make sure to:
-
-1. Configure the API URL in the `.env` file
-2. Handle API responses appropriately
-3. Implement error handling for failed API calls
 
 ## Troubleshooting
 
@@ -140,12 +128,9 @@ The frontend communicates with backend services through API calls. Make sure to:
 
    - Change the port by setting the `PORT` environment variable, e.g., `PORT=3001 npm start`
 
-2. **API connection errors**
 
-   - Verify your API URL and key in the `.env` file
-   - Check if the API server is running and accessible
 
-3. **Missing dependencies**
+2. **Missing dependencies**
    - Run `npm install` or `yarn install` again
 
 ### Getting Help
@@ -164,14 +149,7 @@ This application is optimized for modern browsers including:
 - Safari (latest 2 versions)
 - Edge (latest 2 versions)
 
-## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-=======
 
 ## Screenshots
  <p>
